@@ -1,6 +1,6 @@
 # Hi, I'm Anton Schyberg
 
-I'm a 22-year-old student from Uppland, Sweden, passionate about Front End Development at Medieinstitutet. Creativity fuels my coding and design pursuits. I thrive on pushing digital boundaries, crafting visually appealing interfaces, and eagerly embracing opportunities for growth in the field.
+I'm a 22-year-old student from Uppland, Sweden, studying Front End Development at Medieinstitutet, graduating in spring 2025. I love to show my creativity in different kinds of forms such as music, art and web design. I'm eagerly embracing opportunities for growth in the field and have great experince working on my own as well as with a team.
 
 ## Tech Stack
 
